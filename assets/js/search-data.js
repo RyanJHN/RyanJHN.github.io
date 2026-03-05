@@ -56,6 +56,11 @@ ninja.data = [{
           description: "Course project implementing a full card-game engine with testing and CI.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-handshake-employer-recommendation-system",
+          title: 'Handshake Employer Recommendation System',
+          description: "Prototype recommendation system using employer reviews and similarity ranking.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
