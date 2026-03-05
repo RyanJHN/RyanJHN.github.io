@@ -31,6 +31,6 @@ I am Haonan Jian, an undergraduate in Computer Science at Brandeis University, w
 
 I currently work as a research assistant in Professor Pengyu Hong's group.
 
-My interests include large language models, transformers, reasoning in AI, and AI for science.
+My interests include LLM agents, transformers, reasoning in AI, and AI for science.
 
 You can find more details in my [CV](/cv/), [Projects](/projects/), and [Publications](/publications/) pages.
