@@ -38,15 +38,15 @@ ninja.data = [{
             },},{id: "news-started-as-a-research-assistant-on-the-doc2agent-project-at-brandeis-university",
           title: 'Started as a research assistant on the Doc2Agent project at Brandeis University.',
           description: "",
+          section: "News",},{id: "news-received-the-jerome-a-schiff-undergraduate-fellowship-at-brandeis-university",
+          title: 'Received the Jerome A. Schiff Undergraduate Fellowship at Brandeis University.',
+          description: "",
           section: "News",},{id: "news-joined-neurips-2025-mindgames-challenge",
           title: 'Joined NeurIPS 2025 MindGames Challenge',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-received-the-jerome-a-schiff-undergraduate-fellowship-at-brandeis-university",
-          title: 'Received the Jerome A. Schiff Undergraduate Fellowship at Brandeis University.',
-          description: "",
-          section: "News",},{id: "projects-mindgames-arena-agent-neurips-2025-challenge",
+            },},{id: "projects-mindgames-arena-agent-neurips-2025-challenge",
           title: 'MindGames Arena Agent (NeurIPS 2025 Challenge)',
           description: "LLM agent design for social reasoning and strategic multi-agent gameplay.",
           section: "Projects",handler: () => {
