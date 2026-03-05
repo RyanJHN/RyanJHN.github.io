@@ -47,6 +47,16 @@ cv:
           - Implemented behavior logic and trait-steering mechanisms, and managed simulation setup and execution.
 
     Projects:
+      - name: Handshake Employer Recommendation System
+        summary: Independent researcher
+        start_date: 2024-05
+        end_date: 2024-08
+        highlights:
+          - Developed a prototype recommendation system that analyzes employer reviews to generate personalized company recommendations.
+          - Collected employer review data from Handshake using automated web extraction.
+          - Applied sentiment analysis and text feature extraction to model user preferences from review content.
+          - Implemented similarity-based recommendation using binary feature matrices and cosine similarity to rank relevant employers.
+
       - name: Dominion-Style Card Game (Course Project)
         summary: 'Code repository: github.com/brandeis-cosi-103a-spring25/group-b'
         start_date: 2025-01
