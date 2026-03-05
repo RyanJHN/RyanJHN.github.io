@@ -27,15 +27,10 @@ latest_posts:
   limit: 0
 ---
 
-I am **Haonan Jian**, an undergraduate at **Brandeis University** (B.S. in Computer Science, minor in Economics, GPA 3.7/4.0, Dean's List), expected to graduate in **December 2026**.
+I am Haonan Jian, an undergraduate in Computer Science at Brandeis University, with a minor in Economics.
 
-My work focuses on **LLM agents**, **tool use**, and **machine learning systems**. I currently work as a research assistant on **Doc2Agent** under Professor Pengyu Hong, where I study how to convert unstructured REST API documentation into reliable, executable tools for agentic systems.
+I currently work as a research assistant in Professor Pengyu Hong's group.
 
-I am especially interested in:
-
-- LLM agents and tool-using workflows
-- API understanding and automated tool generation
-- benchmark-driven agent evaluation
-- practical ML infrastructure and deployment
+My interests include large language models, transformers, and reasoning in AI.
 
 You can find more details in my [CV](/cv/), [Projects](/projects/), and [Publications](/publications/) pages.

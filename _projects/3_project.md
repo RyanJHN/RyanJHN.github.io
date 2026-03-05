@@ -2,7 +2,7 @@
 layout: page
 title: Dominion-Style Card Game
 description: Course project implementing a full card-game engine with testing and CI.
-img: assets/img/12.jpg
+img: assets/img/project-dominion-card.svg
 importance: 3
 category: coursework
 ---

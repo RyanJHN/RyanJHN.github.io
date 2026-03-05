@@ -2,7 +2,7 @@
 layout: page
 title: MindGames Arena Agent (NeurIPS 2025 Challenge)
 description: LLM agent design for social reasoning and strategic multi-agent gameplay.
-img: assets/img/11.jpg
+img: assets/img/project-mindgames-card.svg
 importance: 2
 category: research
 ---

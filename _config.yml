@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Haonan
+first_name: Haonan (Ryan)
 middle_name:
 last_name: Jian
 contact_note: >
@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: machine learning, llm agents, tool-using agents, nlp, academic website
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://RyanJHN.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Ryan Jian's Notes # blog_name will be displayed in your blog page
-blog_description: Notes on machine learning systems and agentic AI
+blog_description: Notes on large language models, transformers, and AI research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -204,7 +204,6 @@ plugins:
   - jekyll-archives-v2
   - jekyll-cache-bust
   - jekyll-email-protect
-  - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
