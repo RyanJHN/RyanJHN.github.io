@@ -65,7 +65,7 @@ cv:
           - Vedanshi Chentan S.
           - Pengyu Hong
         publisher: AAMAS
-        releaseDate: 2026
+        releaseDate: 2026-01
         summary: Submitted.
 
       - title: "ToolFactory: Automating Tool Generation by Leveraging LLM to Understand REST API Documentations"
@@ -76,11 +76,12 @@ cv:
           - Vedanshi Chentan S.
           - Pengyu Hong
         publisher: arXiv preprint
+        releaseDate: 2025-01
         summary: Preprint available on arXiv.
 
     Awards:
       - title: Jerome A. Schiff Undergraduate Fellowship
-        date: 2025
+        date: 2025-12
         awarder: Brandeis University
 
     Skills:

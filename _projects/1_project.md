@@ -2,9 +2,9 @@
 layout: page
 title: Doc2Agent
 description: Automated pipeline for generating and validating API tools from unstructured REST docs.
-img: assets/img/project-doc2agent-card.svg
 importance: 1
 category: research
+published: false
 ---
 
 **Role:** Research Assistant  
