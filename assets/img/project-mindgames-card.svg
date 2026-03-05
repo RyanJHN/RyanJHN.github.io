@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">MindGames project card</title>
+  <desc id="desc">Project cover card for MindGames Arena agent</desc>
+  <rect width="1200" height="800" fill="#fff6f1"/>
+  <rect x="70" y="70" width="1060" height="660" rx="24" fill="#ffffff" stroke="#ffd8c6" stroke-width="4"/>
+  <text x="110" y="185" fill="#7a2f16" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">MindGames Arena Agent</text>
+  <text x="110" y="265" fill="#52271a" font-family="Arial, Helvetica, sans-serif" font-size="34">NeurIPS 2025 MindGames Challenge</text>
+  <text x="110" y="345" fill="#8b4b35" font-family="Arial, Helvetica, sans-serif" font-size="28">Social Reasoning and Strategic Planning</text>
+  <text x="110" y="400" fill="#8b4b35" font-family="Arial, Helvetica, sans-serif" font-size="28">in Interactive Multi-Agent Environments</text>
+</svg>
