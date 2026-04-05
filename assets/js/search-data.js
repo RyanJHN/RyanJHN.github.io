@@ -46,7 +46,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-mindgames-arena-agent-neurips-2025-challenge",
+            },},{id: "news-received-the-provost-s-summer-undergraduate-research-fellowship",
+          title: 'Received the Provost’s Summer Undergraduate Research Fellowship.',
+          description: "",
+          section: "News",},{id: "projects-mindgames-arena-agent-neurips-2025-challenge",
           title: 'MindGames Arena Agent (NeurIPS 2025 Challenge)',
           description: "LLM agent design for social reasoning and strategic multi-agent gameplay.",
           section: "Projects",handler: () => {
