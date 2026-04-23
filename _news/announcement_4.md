@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the **Provost's Summer Undergraduate Research Fellowship**.
+Received the **Provost's Summer Undergraduate Research Fellowship** at Brandeis University.
