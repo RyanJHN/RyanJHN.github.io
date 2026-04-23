@@ -46,8 +46,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-received-the-provost-s-summer-undergraduate-research-fellowship",
-          title: 'Received the Provost’s Summer Undergraduate Research Fellowship.',
+            },},{id: "news-received-the-provost-s-summer-undergraduate-research-fellowship-at-brandeis-university",
+          title: 'Received the Provost’s Summer Undergraduate Research Fellowship at Brandeis University.',
           description: "",
           section: "News",},{id: "projects-mindgames-arena-agent-neurips-2025-challenge",
           title: 'MindGames Arena Agent (NeurIPS 2025 Challenge)',
