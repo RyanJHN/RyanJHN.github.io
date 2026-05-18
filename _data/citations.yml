@@ -1,7 +1,7 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-18'
 papers:
   DtoY_G4AAAAJ:u5HHmVD_uO8C:
-    citations: 3
+    citations: 4
     title: 'Doc2agent: Scalable generation of tool-using agents from api documentation'
     year: '2025'
