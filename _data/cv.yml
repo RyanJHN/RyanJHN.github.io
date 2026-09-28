@@ -21,7 +21,7 @@ cv:
         score: "GPA: 3.7/4.0 (Dean's List)"
         highlights:
           - Minor in Economics
-          - 'Relevant coursework: Data Structures, Introduction to Machine Learning, Discrete Structures, Multivariable Calculus, Introduction to Software Engineering, Operating Systems'
+          - "Relevant coursework: Data Structures, Introduction to Machine Learning, Deep Learning, Unsupervised Learning and Data Mining, Automation in Software Development, Introduction to Software Engineering, Operating Systems"
 
     Experience:
       - company: Brandeis University
@@ -29,12 +29,21 @@ cv:
         location: Waltham, MA, USA
         start_date: 2025-04
         end_date: present
-        summary: 'Supervisor: Professor Pengyu Hong. Doc2Agent builds an automated pipeline that converts unstructured REST API documentation into validated Python tools for more reliable LLM API calling.'
+        summary: "Supervisor: Professor Pengyu Hong. Doc2Agent builds an automated pipeline that converts unstructured REST API documentation into validated Python tools for more reliable LLM API calling."
         highlights:
           - Ran the full experimental pipeline across 744 real-world API endpoints, all WebArena environments, and scientific APIs, achieving a 55.1% improvement over baseline API-calling agents.
           - Deployed the full WebArena backend stack on AWS using AMIs and Docker, including security group and endpoint setup for reproducible benchmarking.
           - Designed and integrated a Python execution module extending the API agent into a CodeAct-style agent for conditional, multi-step reasoning.
           - Fine-tuned Gemma-3 models for structured API information extraction from unstructured API documentation.
+
+      - company: Yinghan Pharma-Tech (Shanghai) Co., Ltd.
+        position: AI Engineer Intern
+        start_date: 2026-04
+        end_date: 2026-06
+        highlights:
+          - Extended a LangGraph-based multi-agent platform for scientific workflows by integrating a new domain specialist across routing, tool execution, validation, and artifact handling.
+          - Redesigned an LLM-assisted report-generation workflow with deterministic interfaces and consistency checks grounding generated narratives in structured analytical results.
+          - Developed Python and R tooling for covariate-aware scientific analysis and automated quality checks supporting downstream model-selection workflows.
 
       - company: NeurIPS 2025 MindGames Challenge
         position: Team Member
@@ -58,10 +67,11 @@ cv:
           - Implemented similarity-based recommendation using binary feature matrices and cosine similarity to rank relevant employers.
 
       - name: Dominion-Style Card Game (Course Project)
-        summary: 'Code repository: github.com/brandeis-cosi-103a-spring25/group-b'
+        summary: "Team Leader / Developer. Code repository: github.com/brandeis-cosi-103a-spring25/group-b"
         start_date: 2025-01
         end_date: 2025-05
         highlights:
+          - Led a 4-person team building a Java Dominion-style card game.
           - Implemented the core game engine and player interaction layer, including card effects, turn sequencing, action resolution, and full game-state transitions.
           - Set up and maintained CI on GitHub to automate build checks and test execution.
           - Designed unit and integration tests to validate turn logic and game-end conditions and to stabilize gameplay.
@@ -69,14 +79,14 @@ cv:
     Publications:
       - title: "Doc2Agent: Scalable Generation of Tool-Using Agents from API Documentation"
         authors:
-          - Xinyi N.
-          - Haonan Jian
+          - Xinyi N.*
+          - Haonan Jian*
           - Qiuyang W.
           - Vedanshi Chentan S.
           - Pengyu Hong
-        publisher: AAMAS
+        publisher: AAMAS 2027
         releaseDate: 2026-01
-        summary: Submitted.
+        summary: Submitted. Co-first author.
 
       - title: "ToolFactory: Automating Tool Generation by Leveraging LLM to Understand REST API Documentations"
         authors:
