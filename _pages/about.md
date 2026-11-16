@@ -29,6 +29,9 @@ latest_posts:
 
 I’m Haonan Jian, an undergraduate researcher in computer science at Brandeis University, where I work with Professor Pengyu Hong.
 
-My research focuses on agents for scientific discovery and on efficient, interpretable language models. I’m interested in how agents can improve through successive iterations while keeping their actions and results verifiable. I also study how information is organized in language models’ hidden representations and how that structure can inform more efficient and controllable models.
+My research focuses on two areas.
+
+- **Agents for scientific discovery.** I’m interested in how agents can improve through successive iterations while keeping their actions and results verifiable.
+- **Efficient and interpretable language models.** I study how information is organized in language models’ hidden representations and how that structure can inform more efficient and controllable models.
 
 You can find more details in my [CV](/cv/), [Projects](/projects/), and [Publications](/publications/) pages.
