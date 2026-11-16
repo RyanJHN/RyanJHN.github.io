@@ -27,10 +27,8 @@ latest_posts:
   limit: 0
 ---
 
-I am Haonan Jian, an undergraduate in Computer Science at Brandeis University, with a minor in Economics.
+I’m Haonan Jian, an undergraduate researcher in computer science at Brandeis University, where I work with Professor Pengyu Hong.
 
-I currently work as a research assistant in Professor Pengyu Hong's group.
-
-My interests include LLM agents, Trustworthy AI, and AI for science.
+My research focuses on agents for scientific discovery and on efficient, interpretable language models. I’m interested in how agents can improve through successive iterations while keeping their actions and results verifiable. I also study how information is organized in language models’ hidden representations and how that structure can inform more efficient and controllable models.
 
 You can find more details in my [CV](/cv/), [Projects](/projects/), and [Publications](/publications/) pages.
